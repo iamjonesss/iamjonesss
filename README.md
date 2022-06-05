@@ -1,6 +1,6 @@
 ### É um prazer ter sua visita por aqui, fica a vontade pra dar teu feedback nos projetinhos ou só dar uma olhada mesmo.
 
-- 🌱 Estou atualmente estudando JavaScript, HTML e CSS
+- 🌱 Estou atualmente estudando JavaScript, HTML e CSS, enquanto no Back-End estudo Python com SQL
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
