@@ -1,4 +1,4 @@
-### É um prazer ter sua visita por aqui, fica a vontade pra dar teu feedback nos projetinhos ou só dar uma olhada mesmo.
+### É um prazer ter sua visita por aqui, fica a vontade pra refatorar os projetos da maneira que queira ou só dar uma olhada mesmo.
 
 - 🌱 Estou atualmente estudando JavaScript, HTML e CSS, enquanto no Back-End estudo Python com SQL
 
