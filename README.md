@@ -1,6 +1,6 @@
 ### É um prazer ter sua visita por aqui, fica a vontade pra refatorar os projetos da maneira que queira ou só dar uma olhada mesmo.
 
-- 🌱 Estou atualmente estudando desenvolvimento de automações com Python e Selenium e desenvolvimento com a tecnologia TypeScript
+- 🌱 Estou atualmente estudando desenvolvimento de automações com Python e Selenium e integração com back-end!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
